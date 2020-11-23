@@ -1,6 +1,10 @@
 <div align="center"><img src="media/logo.svg" width="240" /></div>
 
-# ❤️ sponsorsme
+# sponsorsme
+
+![Test](https://github.com/maticzav/sponsorsme/workflows/Test/badge.svg)
+[![codecov](https://codecov.io/gh/maticzav/sponsorsme/branch/master/graph/badge.svg)](https://codecov.io/gh/maticzav/sponsorsme)
+[![npm version](https://badge.fury.io/js/sponsorsme.svg)](https://badge.fury.io/js/sponsorsme)
 
 > A lightweight utility to check whether a user sponsors you.
 

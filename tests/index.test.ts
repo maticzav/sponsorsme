@@ -12,7 +12,7 @@ describe('client', () => {
   // Set up
 
   beforeAll(() => {
-    client = new Sponsors({ token: `bearer ${TOKEN}` })
+    client = new Sponsors({ token: TOKEN })
   })
 
   // Tests

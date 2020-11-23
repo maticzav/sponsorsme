@@ -1,0 +1,20 @@
+on: [pull_request]
+
+name: Test
+jobs:
+  build:
+    name: release
+    runs-on: ubuntu-latest
+    steps:
+      # Setup
+      - uses: actions/checkout@master
+      - uses: actions/setup-node@v1
+        with:
+          node-version: '13.x'
+      - run: yarn install
+      # Test
+      - run: yarn build
+      - run: yarn test
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: yarn coverage

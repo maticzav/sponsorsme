@@ -3,7 +3,7 @@
 # sponsorsme
 
 ![Test](https://github.com/maticzav/sponsorsme/workflows/Test/badge.svg)
-[![codecov](https://codecov.io/gh/maticzav/sponsorsme/branch/master/graph/badge.svg)](https://codecov.io/gh/maticzav/sponsorsme)
+[![codecov](https://codecov.io/gh/maticzav/sponsorsme/branch/main/graph/badge.svg?token=NA8CH6JE76)](https://codecov.io/gh/maticzav/sponsorsme)
 [![npm version](https://badge.fury.io/js/sponsorsme.svg)](https://badge.fury.io/js/sponsorsme)
 
 > A lightweight utility to check whether a user sponsors you.

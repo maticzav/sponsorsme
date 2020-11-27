@@ -34,7 +34,7 @@ if (isVIPSponsor(sponsor)) {
 ## Installation
 
 ```bash
-yarn add sponsorme
+yarn add sponsorsme
 ```
 
 You can get the token from [GitHub](https://github.com/settings/tokens). Make sure you check at least 'user' and 'read:org' in permissions list.

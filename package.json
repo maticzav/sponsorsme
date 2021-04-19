@@ -15,7 +15,7 @@
     "dist"
   ],
   "dependencies": {
-    "@octokit/graphql": "^4.5.7"
+    "@octokit/graphql": "^4.6.1"
   },
   "devDependencies": {
     "@types/jest": "26.0.22",

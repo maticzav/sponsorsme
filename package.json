@@ -18,7 +18,7 @@
     "@octokit/graphql": "^4.6.1"
   },
   "devDependencies": {
-    "@types/jest": "26.0.23",
+    "@types/jest": "26.0.24",
     "@types/node": "14.17.4",
     "codecov": "3.8.2",
     "husky": "4.3.8",
